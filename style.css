@@ -8,4 +8,10 @@ header {border-bottom: solid 4px rgb(12, 219, 255);
     padding:10px;
 font-size: 32px;
   color: rgb(0, 0, 0);
-}´
+}
+section{background: yellow;
+    padding-bottom: 80px;
+    padding-top: 50px;
+    display: flex;
+    justify-content:  center;
+}
